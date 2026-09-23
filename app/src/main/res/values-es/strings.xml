@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzaCostCalculator</string>
+
+    <string name="pizza_image_description">Imagen de pizza</string>
+    <string name="hint_pizza_count">Ingrese el número de pizzas</string>
+
+    <string name="label_select_size">Seleccione el tamaño:</string>
+    <string name="size_small">Pequeña</string>
+    <string name="size_medium">Mediana</string>
+    <string name="size_large">Grande</string>
+    <string name="size_extra_large">Extra grande</string>
+
+    <string name="label_select_toppings">Seleccione los ingredientes:</string>
+    <string name="topping_bacon">Tocino</string>
+    <string name="topping_banana_peppers">Chiles banana</string>
+    <string name="topping_grilled_chicken">Pollo a la parrilla</string>
+    <string name="topping_ground_beef">Carne molida</string>
+    <string name="topping_mushroom">Champiñones</string>
+    <string name="topping_pepperoni">Pepperoni</string>
+    <string name="topping_extra_cheese">Queso extra</string>
+
+    <string name="btn_clear">Borrar</string>
+    <string name="btn_calculate">Calcular</string>
+
+    <string name="total_cost_default">Costo total: $0.00</string>
+</resources>
